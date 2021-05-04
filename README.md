@@ -12,4 +12,4 @@ This is a Netflix Clone built using React. All the movies data is being retrived
 
 ## Screenshot
 
-<img src="screenshot.png" alt="Netflix Clone Screenshot">
+<img src="./screenshot.png" alt="Netflix Clone Screenshot">
